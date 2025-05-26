@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Genius",
+  title: "AI-saas",
   description: "AI platform for your business",
 };
 
